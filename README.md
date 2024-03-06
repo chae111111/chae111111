@@ -18,7 +18,10 @@
   2020.03 ~ 2024.02 금오공과대학교 메디컬it융합공학과 재학후 졸업<br>
   2024.01 ~ 현재까지 삼성 청년 sw 아카데미(aka.SSAFY) 입과후 교육
 </h4>
-
+<h1 align="center"> 📊 Baekjoon Stats 📊 </h1>
+<p align='center'>
+	<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=chawoo2039"></p>a>
+</p>
 <h1 align="center">📊 GitHub Stats 📊 </h1>
 <p align="center"> 
 	<img src="https://github-readme-stats.vercel.app/api?username=chae111111&theme=vue&show_icons=true"/></a>
